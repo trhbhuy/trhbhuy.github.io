@@ -1,7 +1,7 @@
 ---
 title: "An example preprint / working paper"
 authors:
-- admin
+- Nguyen Thanh Minh Duy
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
@@ -25,7 +25,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 tags:
 - Large Language Models
 
-featured: true
+featured: false
 
 links:
 - name: Custom Link

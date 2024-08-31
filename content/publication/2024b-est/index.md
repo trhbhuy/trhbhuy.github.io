@@ -1,16 +1,19 @@
 ---
-title: "An example journal article"
+title: "An IGDT approach for the multi-objective framework of integrated energy hub with renewable energy sources, hybrid energy storage systems, and biomass-to-hydrogen technology"
 authors:
+- Pham Van Phu
 - admin
-- Robert Ford
+- Seongkeun Park
+- Daehee Kim
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+
+date: "2024-06-01T00:00:00Z"
+doi: "10.1016/j.est.2024.111488"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-04-20T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,23 +21,28 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Journal of Energy Storage, 89*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: |
+  The decarbonization of electric power systems plays a critical role in global endeavors to mitigate climate change and facilitate the transition towards a sustainable energy future. This paper proposes an integrated energy hub (IEH) operational model to produce green hydrogen from biomass. The model includes renewable photovoltaic and wind sources, biomass electrolyzers, batteries, and hydrogen storage systems. To manage uncertainties from renewable sources, electricity and hydrogen demand, and energy prices, an Information Gap Decision Theory-based normalized weighted-sum (IGDT-NWS) approach is proposed. This study emphasizes the potential benefits of integrating hydrogen storage systems into the battery energy storage system, showing significant reductions in operation cost and environmental impact.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This paper presents an IGDT-based approach for optimizing the operation of an integrated energy hub with renewable energy, hybrid storage systems, and biomass-to-hydrogen technology.
 
 tags:
-- Source Themes
+- Energy hub
+- Green hydrogen
+- Information Gap Decision Theory
+- Renewable energy sources
+
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: "https://doi.org/10.1016/j.est.2024.111488"
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''

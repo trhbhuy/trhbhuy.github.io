@@ -1,16 +1,16 @@
 ---
-title: "An example journal article"
+title: "Multi-objective optimal power flow of thermal-wind-solar power system using an adaptive geometry estimation based multi-objective differential evolution"
 authors:
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Hien Thanh Doan
+- Dieu Ngoc Vo
+- Kyu-haeng Lee
+- Daehee Kim
+date: "2023-12-01T00:00:00Z"
+doi: "10.1016/j.asoc.2023.110977"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-10-28T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,23 +18,28 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Applied Soft Computing Journal, 149*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: |
+  Sustainable energy is a key component of sustainable development. The current grid can be supplied by fossil fuel generators and renewable energy sources (RESs)-based generators, such as solar photovoltaic (PV) and wind power generators. This study proposes an adaptive geometry estimation-based multi-objective differential evolution (AGE-MODE) method for solving the multi-objective optimal power flow problem in hybrid thermal-wind-solar power systems. The proposed approach is validated on modified IEEE 30-bus and 57-bus systems, showing superior performance compared to other state-of-the-art algorithms.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This study introduces an adaptive geometry estimation-based multi-objective differential evolution (AGE-MODE) for optimizing power flow in hybrid thermal-wind-solar systems, demonstrating superior results on IEEE 30-bus and 57-bus systems.
 
 tags:
-- Source Themes
+- Multi-objective optimization
+- Optimal power flow
+- Thermal-wind-solar power system
+- Differential evolution
+- Renewable energy
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://doi.org/10.1016/j.asoc.2023.110977
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -54,7 +59,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects:
+- thermal-wind-solar-optimization
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

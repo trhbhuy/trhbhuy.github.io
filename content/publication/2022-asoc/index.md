@@ -1,16 +1,18 @@
 ---
-title: "An example journal article"
+title: "Multi-objective Search Group Algorithm for Engineering Design Problems"
 authors:
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Perumal Nallagownden
+- Khoa Hoang Truong
+- Amani Kannan
+- Dieu Ngoc Vo
+- Nguyen Ho
+
+date: "2022-09-01T00:00:00Z"
+doi: "10.1016/j.asoc.2022.109287"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-07-11T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,23 +20,29 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Applied Soft Computing Journal, 126*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: |
+  This study proposes a new multi-objective version of the Search Group Algorithm (SGA) called the Multi-Objective Search Group Algorithm (MOSGA). The MOSGA integrates the conventional SGA with an elitist non-dominated sorting technique, enabling the definition of Pareto optimal solutions via mutation, offspring generation, and selection. The method is validated on twenty-five case studies, including nineteen unconstrained multi-objective benchmark problems, six constrained multi-objective benchmark problems, and five multi-objective engineering design problems. The results indicate that MOSGA is robust and superior in handling a wide variety of multi-objective problems.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This study introduces a Multi-Objective Search Group Algorithm (MOSGA) for solving complex multi-objective optimization problems, demonstrating its effectiveness on various benchmark and engineering design problems.
 
 tags:
-- Source Themes
+- Multi-objective optimization
+- Engineering design problems
+- Pareto optimal solution
+- Search Group Algorithm
+- Non-dominated sorting
+
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: "https://doi.org/10.1016/j.asoc.2022.109287"
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -54,7 +62,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects:
+- multi-objective-optimization
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

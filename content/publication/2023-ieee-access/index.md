@@ -1,16 +1,15 @@
 ---
-title: "An example journal article"
+title: "Optimal Distributed Generation Placement in Radial Distribution Networks Using Enhanced Search Group Algorithm"
 authors:
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Dieu Ngoc Vo
+- Khoa Hoang Truong
+- Thanh Van Tran
+date: "2023-01-01T00:00:00Z"
+doi: "10.1109/ACCESS.2023.3316725"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,23 +17,29 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*IEEE Access, 11*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: |
+  The aim of this research is to define the placement of distributed generations (DGs) in radial distribution networks (RDNs) using a meta-heuristic method called the Enhanced Search Group Algorithm (ESGA). This algorithm is an upgraded version of the conventional SGA that incorporates the Chaotic Local Search (CLS) approach to improve global exploration ability. The objectives of the optimal DG placement (ODGP) problem are to decrease active power losses, increase voltage stability, and boost the voltage profile of RDNs. The study applied the ESGA to optimize the placement and size of DGs, considering two cases of power factors (unity and optimal) in 33, 69, and 118-bus RDNs. The results indicate that the ESGA method outperforms other approaches regarding solution quality, particularly for large-scale and complex networks.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This study presents an Enhanced Search Group Algorithm (ESGA) for optimizing the placement and sizing of distributed generations in radial distribution networks, demonstrating superior performance in reducing power loss and enhancing voltage stability.
 
 tags:
-- Source Themes
+- Distributed Generation
+- Radial Distribution Network
+- Search Group Algorithm
+- Voltage Stability
+- Power Loss Reduction
+
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: "https://doi.org/10.1109/ACCESS.2023.3316725"
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -54,7 +59,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects:
+- distributed-generation-optimization
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

@@ -1,16 +1,15 @@
 ---
-title: "An example journal article"
+title: "An improved metaheuristic method for simultaneous network reconfiguration and distributed generation allocation"
 authors:
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Thanh Van Tran
+- Dieu Ngoc Vo
+- Ho Thi Thao Nguyen
+date: "2022-10-01T00:00:00Z"
+doi: "10.1016/j.aej.2022.01.056"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-01-29T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,23 +17,29 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Alexandria Engineering Journal, 61*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: |
+  A new chaotic search group algorithm (CSGA) is proposed in this study for simultaneous network reconfiguration and allocation of distributed generation (SNR-DG) in a radial distribution network (RDN) with the objective of minimizing real power loss. The CSGA, an improved metaheuristic algorithm, integrates a chaotic local search strategy with the original SGA to enhance search performance. Tested on 33-, 69-, 84-, and 118-bus RDNs, the proposed method significantly improves voltage profiles and reduces power losses. Comparative findings indicate that CSGA yields superior solution quality compared to other techniques.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This study proposes a chaotic search group algorithm (CSGA) for optimizing network reconfiguration and distributed generation allocation in radial distribution networks, improving voltage profiles and reducing power losses.
 
 tags:
-- Source Themes
+- Network reconfiguration
+- Distributed generation
+- Chaotic search group algorithm
+- Power loss reduction
+- Radial distribution network
+
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: "https://doi.org/10.1016/j.aej.2022.01.056"
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -54,7 +59,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects:
+- network-reconfiguration-optimization
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

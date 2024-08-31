@@ -1,16 +1,14 @@
 ---
-title: "An example journal article"
+title: "Multiobjective Optimal Power Flow Using Multiobjective Search Group Algorithm"
 authors:
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Daehee Kim
+- Dieu Ngoc Vo
+date: "2022-07-28T00:00:00Z"
+doi: "10.1109/ACCESS.2022.3193371"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-07-28T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,23 +16,31 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*IEEE Access, 10*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: |
+  This paper proposes a new multi-objective method that efficiently solves the multi-objective optimal power flow (MOOPF) problem in power systems. The objective of solving the MOOPF problem is to concurrently optimize the fuel cost, emissions, and active power loss. The proposed multi-objective search group algorithm (MOSGA) is an effective method that combines the merits of the original search group algorithm with fast nondominated sorting, crowding distance, and archive selection strategies to acquire a nondominated set in a single run. The MOSGA is employed on IEEE 30-bus and 57-bus systems to validate its robustness and efficiency. The results show that the MOSGA significantly enhances the performance of power systems in terms of economic, environmental, and technical benefits.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This study introduces a Multi-Objective Search Group Algorithm (MOSGA) for solving the multi-objective optimal power flow (MOOPF) problem in power systems, demonstrating its effectiveness in optimizing fuel cost, emissions, and active power loss.
 
 tags:
-- Source Themes
+- Multi-objective optimization
+- Optimal power flow
+- Power systems
+- Search group algorithm
+- Fuel cost
+- Emissions
+- Active power loss
+
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: "https://doi.org/10.1109/ACCESS.2022.3193371"
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -54,7 +60,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects:
+- multi-objective-power-flow
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
