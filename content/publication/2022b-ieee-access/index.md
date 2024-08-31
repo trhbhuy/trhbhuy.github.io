@@ -1,16 +1,17 @@
 ---
-title: "An example journal article"
+title: "Performance Improvement of Multiobjective Optimal Power Flow-Based Renewable Energy Sources Using Intelligent Algorithm"
 authors:
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Tri Phuoc Nguyen
+- Nursyarizal Mohd Nor
+- Irraivan Elamvazuthi
+- Taib Ibrahim
+- Dieu Ngoc Vo
+date: "2022-04-26T00:00:00Z"
+doi: "10.1109/ACCESS.2022.3170547"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-04-26T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,23 +19,28 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*IEEE Access, 10*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: |
+  Producing energy from a variety of sources in a power system requires an optimal schedule to operate the power grids economically and efficiently. Nowadays, power grids might include thermal generators and renewable energy sources (RES). The integration of RES adds complexity to the optimal power flow problem due to intermittence and uncertainty. This study suggests a Multi-Objective Search Group Algorithm (MOSGA) to deal with multi-objective optimal power flow integrated with stochastic wind and solar power (MOOPF-WS) problem. The effectiveness of MOSGA was validated on the IEEE 30-bus and 57-bus systems considering various combinations of objective functions as well as different loading scenarios. Its performance was comprehensively compared with other multi-objective optimization algorithms, demonstrating the superiority of MOSGA in obtaining well-distributed Pareto fronts and producing better quality solutions.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This study proposes a Multi-Objective Search Group Algorithm (MOSGA) for solving the multi-objective optimal power flow problem with renewable energy sources, validating its effectiveness on IEEE 30-bus and 57-bus systems.
 
 tags:
-- Source Themes
+- Multi-objective optimization
+- Optimal power flow
+- Renewable energy sources
+- Intelligent algorithms
+- Search Group Algorithm
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: "https://doi.org/10.1109/ACCESS.2022.3170547"
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -54,7 +60,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects:
+- multi-objective-optimal-power-flow
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
