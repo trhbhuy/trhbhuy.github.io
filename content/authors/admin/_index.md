@@ -1,13 +1,10 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Truong Hoang Bao Huy
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Huy
+last_name: Truong
 
 # Status emoji
 status:
@@ -20,92 +17,93 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Soonchunhyang University
+    url: https://sgee.sch.ac.kr/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:trhbhuy@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/trhbhuy
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=YfJyCrAAAAAJ&hl=en
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Truong-Hoang-Bao-Huy
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Power & Energy Systems 
+  - Power System Optimization
+  - AI Applications in Energy 
+  - Renewable and Sustainable Energy
+  - Energy Management Strategies
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD in Future Convergence Technology
+    institution: Soonchunhyang University
+    date_start: 2022-03-01
+    date_end: 2025-02-28
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      GPA: 3.6/4.0
+
+      Thesis on _Integration of Deep Learning with Mathematical Optimization for Robust Energy Management in Smart Energy Systems_. Supervised by [Prof Daehee Kim](https://scholar.google.co.kr/citations?user=MJcazXsAAAAJ&hl=en). Published 4 papers in Elsevier journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+
+  - area: MSc in Electrical & Electronics Engineering
+    institution: Universiti Teknologi Petronas
+    date_start: 2018-08-01
+    date_end: 2020-10-02
     summary: |
-      GPA: 3.8/4.0
+      GPA: Excellent Viva-voce Results
+
+      Thesis on _Search Group Algorithm for Multi-Objective Optimization in Energy Applications_. Supervised by Prof. Perumal Nallagownden.
+      
+  - area: BEng in Electrical & Electronics Engineering
+    institution: Ho Chi Minh City University of Technology, VNU-HCM
+    date_start: 2012-09-01
+    date_end: 2017-04-01
+    summary: |
+      GPA: 3.0/4.0
+      
+      Thesis on _Optimal Power Flow with Emission and Non-smooth Cost Functions using Search Group Algorithm_. Supervised by Profs Dieu Ngoc Vo.
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Power System Analysis
+      - Power System Protection
+      - Electric Circuits Analysis
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Research Assistant
+    company_name: Thu Dau Mot University
+    company_url: https://tdmu.edu.vn
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2020-12-01
+    date_end: 2022-02-01
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      - Conducted research and authored scientific articles
+      - Participated in two grassroots-level projects
+  - position: Electrical Design Engineer
+    company_name: Gouvis Engineering, Vietnam Office
+    company_url: https://gouvisgroup.com
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
+    date_start: 2017-06-01
+    date_end: 2018-06-30
+    summary: |2-
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Designed electrical systems for residential homes, apartments, and commercial centers
+      - Layout interior and exterior lighting designs
+      - Ensure electrical design integration with architectural and mechanical systems
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -120,7 +118,7 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Optimization
         description: ''
         percent: 40
         icon: circle-stack
@@ -128,26 +126,26 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Basketball
         description: ''
-        percent: 60
+        percent: 80
         icon: person-simple-walk
-      - name: Cats
+      - name: Travel
         description: ''
-        percent: 100
-        icon: cat
+        percent: 80
+        icon: globe-europe-africa
       - name: Photography
         description: ''
         percent: 80
         icon: camera
 
 languages:
-  - name: English
+  - name: Vietnamese
     percent: 100
-  - name: Chinese
+  - name: English
     percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Korean
+    percent: 20
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -183,4 +181,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a PhD Candidate at the Department of [Future Convergence Technology at Soonchunhyang University](https://sgee.sch.ac.kr/). My research is centered around addressing critical challenges in energy and power systems, with a focus on the sustainable and intelligent management of energy systems. I am particularly interested in the intersection of energy management, smart grids, and microgrids, where advanced technologies can significantly enhance efficiency and reliability.
