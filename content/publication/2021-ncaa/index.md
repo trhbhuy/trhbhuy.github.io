@@ -1,12 +1,12 @@
 ---
 title: "Multi-objective Search Group Algorithm for Thermo-Economic Optimization of Flat-Plate Solar Collector"
 authors:
-- admin
-- Perumal Nallagownden
-- Khoa Hoang Truong
-- Ramani Kannan
-- Dieu Ngoc Vo
-- Nguyen Ho
+  - admin
+  - Perumal Nallagownden
+  - Khoa Hoang Truong
+  - Ramani Kannan
+  - Dieu Ngoc Vo
+  - Nguyen Ho
 date: "2021-04-02T00:00:00Z"
 doi: "10.1007/s00521-021-05915-w"
 
@@ -29,30 +29,31 @@ abstract: |
 summary: This study introduces a Multi-Objective Search Group Algorithm (MOSGA) for optimizing the thermo-economic performance of flat-plate solar collectors, demonstrating significant improvements in thermal efficiency and cost-effectiveness.
 
 tags:
-- Multi-objective optimization
-- Flat-plate solar collector
-- Thermo-economic optimization
-- Search Group Algorithm
-- Renewable energy
+  - Multi-objective optimization
+  - Flat-plate solar collector
+  - Thermo-economic optimization
+  - Search Group Algorithm
+  - Renewable energy
 
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://doi.org/10.1007/s00521-021-05915-w"
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+# url_pdf: "https://doi.org/10.1007/s00521-021-05915-w"
+url_pdf: "publication/2021-ncaa/conference-paper.pdf"
+url_code: ""
+url_dataset: ""
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
   focal_point: ""
   preview_only: false
 
@@ -62,7 +63,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- thermo-economic-solar-optimization
+  - thermo-economic-solar-optimization
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -73,11 +74,11 @@ slides: example
 ---
 
 {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
 {{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
+Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
