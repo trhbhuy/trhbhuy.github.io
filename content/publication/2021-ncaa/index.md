@@ -8,7 +8,7 @@ authors:
   - Dieu Ngoc Vo
   - Nguyen Ho
 date: "2021-04-02T00:00:00Z"
-doi: "10.1007/s00521-021-05915-w"
+doi: "https://doi.org/10.1007/s00521-021-05915-w"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-04-02T00:00:00Z"
@@ -32,7 +32,6 @@ tags:
   - Multi-objective optimization
   - Flat-plate solar collector
   - Thermo-economic optimization
-  - Search Group Algorithm
   - Renewable energy
 
 featured: false
@@ -41,14 +40,14 @@ featured: false
 # - name: ""
 #   url: ""
 # url_pdf: "https://doi.org/10.1007/s00521-021-05915-w"
-url_pdf: "publication/2021-ncaa/conference-paper.pdf"
-url_code: ""
-url_dataset: ""
-url_poster: ""
-url_project: ""
-url_slides: ""
-url_source: ""
-url_video: ""
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -73,7 +72,7 @@ projects:
 slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -81,4 +80,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->

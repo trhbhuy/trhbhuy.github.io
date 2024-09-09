@@ -6,11 +6,11 @@ authors:
 - Seongkeun Park
 - Daehee Kim
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# - "Equal contribution"
+# - "Equal contribution"
 
 date: "2024-06-01T00:00:00Z"
-doi: "10.1016/j.est.2024.111488"
+doi: "https://doi.org/10.1016/j.est.2024.111488"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-04-20T00:00:00Z"
@@ -41,7 +41,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://doi.org/10.1016/j.est.2024.111488"
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -72,7 +72,7 @@ projects: []
 slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -80,4 +80,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->

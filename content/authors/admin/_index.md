@@ -40,7 +40,7 @@ profiles:
     url: https://www.researchgate.net/profile/Truong-Hoang-Bao-Huy
 
 interests:
-  - Power & Energy Systems 
+  - Power & Energy Systems
   - Power System Optimization
   - AI Applications in Energy 
   - Renewable and Sustainable Energy
@@ -56,8 +56,8 @@ education:
 
       Thesis on _Integration of Deep Learning with Mathematical Optimization for Robust Energy Management in Smart Energy Systems_. Supervised by [Prof Daehee Kim](https://scholar.google.co.kr/citations?user=MJcazXsAAAAJ&hl=en). Published 4 papers in Elsevier journals.
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      # text: 'Read Thesis'
+      # url: 'https://example.com'
 
   - area: MSc in Electrical & Electronics Engineering
     institution: Universiti Teknologi Petronas
@@ -75,35 +75,36 @@ education:
     summary: |
       GPA: 3.0/4.0
       
-      Thesis on _Optimal Power Flow with Emission and Non-smooth Cost Functions using Search Group Algorithm_. Supervised by Profs Dieu Ngoc Vo.
+      Thesis on _Optimal Power Flow with Emission and Non-smooth Cost Functions using Search Group Algorithm_. Supervised by Prof. Dieu Ngoc Vo.
 
       Courses included:
       - Power System Analysis
       - Power System Protection
       - Electric Circuits Analysis
 
-work:
-  - position: Research Assistant
-    company_name: Thu Dau Mot University
-    company_url: https://tdmu.edu.vn
-    company_logo: ''
-    date_start: 2020-12-01
-    date_end: 2022-02-01
-    summary: |2-
-      Responsibilities include:
-      - Conducted research and authored scientific articles
-      - Participated in two grassroots-level projects
-  - position: Electrical Design Engineer
-    company_name: Gouvis Engineering, Vietnam Office
-    company_url: https://gouvisgroup.com
-    company_logo: ''
-    date_start: 2017-06-01
-    date_end: 2018-06-30
-    summary: |2-
-      Responsibilities include:
-      - Designed electrical systems for residential homes, apartments, and commercial centers
-      - Layout interior and exterior lighting designs
-      - Ensure electrical design integration with architectural and mechanical systems
+# work:
+#   - position: Research Assistant
+#     company_name: Thu Dau Mot University
+#     company_url: https://tdmu.edu.vn
+#     company_logo: ''
+#     date_start: 2020-12-01
+#     date_end: 2022-02-01
+#     summary: |2-
+#       Responsibilities include:
+#       - Conducted fundamental research in power system optimization
+#       - Participated in research projects
+#       - Guided undergraduate students in the completion of their thesis projects
+#   - position: Electrical Design Engineer
+#     company_name: Gouvis Engineering, Vietnam Office
+#     company_url: https://gouvisgroup.com
+#     company_logo: ''
+#     date_start: 2017-06-01
+#     date_end: 2018-06-30
+#     summary: |2-
+#       Responsibilities include:
+#       - Engineered electrical systems for residential, multi-unit, and commercial projects
+#       - Designed efficient lighting layouts for both interior and exterior spaces
+#       - Collaborated with architectural and mechanical teams to integrate electrical designs into building plans
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -151,34 +152,38 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+# awards:
+#   - title: Neural Networks and Deep Learning
+#     url: https://www.coursera.org/learn/neural-networks-deep-learning
+#     date: '2023-11-25'
+#     awarder: Coursera
+#     icon: coursera
+#     summary: |
+#       Learned:
+#       - Understand the foundational concepts of neural networks and deep learning
+#       - Build, train, and apply deep neural networks
+#       - Identify and fine-tune key parameters in a neural network’s architecture
+#       - Apply deep learning techniques to real-world applications
+  # - title: Blockchain Fundamentals
+  #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  #   date: '2023-07-01'
+  #   awarder: edX
+  #   icon: edx
+  #   summary: |
+  #     Learned:
+  #     - Synthesize your own blockchain solutions
+  #     - Gain an in-depth understanding of the specific mechanics of Bitcoin
+  #     - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+  # - title: 'Object-Oriented Programming in R'
+  #   url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+  #   certificate_url: https://www.datacamp.com
+  #   date: '2023-01-21'
+  #   awarder: datacamp
+  #   icon: datacamp
+  #   summary: |
+  #     Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 ## About Me
 
-I am currently a PhD Candidate at the Department of [Future Convergence Technology at Soonchunhyang University](https://sgee.sch.ac.kr/). My research is centered around addressing critical challenges in energy and power systems, with a focus on the sustainable and intelligent management of energy systems. I am particularly interested in the intersection of energy management, smart grids, and microgrids, where advanced technologies can significantly enhance efficiency and reliability.
+I am currently a PhD Candidate in the Department of [Future Convergence Technology](https://sites.google.com/view/iot-network-lab-sch/home?authuser=0) at [Soonchunhyang University](https://sgee.sch.ac.kr/). My research focuses on addressing challenges in modern power and energy systems, particularly in energy-related modeling, forecasting, and optimization. I have a strong emphasis on integrating renewable energy sources (e.g., wind, solar, and hydrogen) and flexible resources (e.g., energy storage systems and electric vehicles) to reduce operating costs and facilitate the transition to a low-carbon future.
