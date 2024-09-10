@@ -27,11 +27,10 @@ abstract: |
 summary: This study presents an Enhanced Search Group Algorithm (ESGA) for optimizing the placement and sizing of distributed generations in radial distribution networks, demonstrating superior performance in reducing power loss and enhancing voltage stability.
 
 tags:
+- Power System Optimization
 - Distributed Generation
-- Radial Distribution Network
-- Search Group Algorithm
-- Voltage Stability
-- Power Loss Reduction
+- Distribution Network
+- Metaheuristic
 
 featured: false
 

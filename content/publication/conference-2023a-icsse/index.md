@@ -39,10 +39,8 @@ summary: This study applies machine learning algorithms, including ANN, Random F
 
 tags:
   - Power system state estimation
-  - Machine learning
   - Deep learning
-  - Random Forest
-  - XGBoost
+  - Power Systems
 
 # Display this page in the Featured widget?
 featured: false
@@ -52,7 +50,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'publication/conference-2023a-icsse/2023a-icsse.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

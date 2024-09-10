@@ -29,10 +29,8 @@ abstract: |
 summary: This study introduces a Multi-Objective Search Group Algorithm (MOSGA) for optimizing the thermo-economic performance of flat-plate solar collectors, demonstrating significant improvements in thermal efficiency and cost-effectiveness.
 
 tags:
-  - Multi-objective optimization
-  - Flat-plate solar collector
-  - Thermo-economic optimization
-  - Renewable energy
+- Thermo-economic optimization
+- Metaheuristic
 
 featured: false
 

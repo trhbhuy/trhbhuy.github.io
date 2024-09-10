@@ -39,7 +39,6 @@ summary: This study applies a gated recurrent unit (GRU) model for short-term lo
 
 tags:
   - Short-term load forecasting
-  - Recurrent Neural Network
   - Gated Recurrent Unit
   - Deep Learning
   - Power Systems
@@ -52,7 +51,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'publication/conference-2023b-icsse/2023b-icsse.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

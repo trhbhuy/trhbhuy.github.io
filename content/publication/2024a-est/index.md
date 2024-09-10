@@ -28,11 +28,10 @@ abstract: |
 summary: This study proposes a supervised-learning-based strategy for real-time power scheduling in isolated microgrids with renewable energy and energy storage systems, showing significant cost reductions and operational efficiency improvements.
 
 tags:
-- Isolated microgrid
-- Energy storage system
-- Power scheduling
-- Renewable energy
-- Supervised learning
+- Energy management
+- Isolated Microgrid
+- Imitation Learning
+- Supervised Learning
 featured: true
 
 # links:
@@ -50,7 +49,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Schematic diagram of the proposed isolated microgrid: [**Elsevier**](https://ars.els-cdn.com/content/image/1-s2.0-S0306261924012303-gr2_lrg.jpg)'
+  caption: 'Schematic diagram of the proposed isolated microgrid: [**Elsevier**](https://ars.els-cdn.com/content/image/1-s2.0-S2352152X24010910-gr2_lrg.jpg)'
   focal_point: ""
   preview_only: false
 

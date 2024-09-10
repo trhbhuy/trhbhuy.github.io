@@ -26,10 +26,11 @@ abstract: |
 summary: This study presents a multi-objective framework for a home energy management system (HEMS) integrating solar energy and electric vehicles, optimizing energy cost, peak-to-average ratio (PAR), and discomfort index (DI) through an augmented ε-constraint method and lexicographic optimization.
 
 tags:
-- Home energy management system
-- Multi-objective optimization
-- Energy storage system
-- Electric vehicle
+- Energy Management
+- HEMS
+- Multi-Objective optimization
+# - Energy storage system
+# - Electric vehicle
 
 featured: false
 

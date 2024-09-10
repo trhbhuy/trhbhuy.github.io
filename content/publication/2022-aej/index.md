@@ -27,11 +27,10 @@ abstract: |
 summary: This study proposes a chaotic search group algorithm (CSGA) for optimizing network reconfiguration and distributed generation allocation in radial distribution networks, improving voltage profiles and reducing power losses.
 
 tags:
+- Power System Optimization
 - Network reconfiguration
-- Distributed generation
-- Chaotic search group algorithm
-- Power loss reduction
-- Radial distribution network
+- Distribution Network
+- Metaheuristic
 
 featured: false
 

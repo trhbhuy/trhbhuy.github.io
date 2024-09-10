@@ -26,13 +26,9 @@ abstract: |
 summary: This study introduces a Multi-Objective Search Group Algorithm (MOSGA) for solving the multi-objective optimal power flow (MOOPF) problem in power systems, demonstrating its effectiveness in optimizing fuel cost, emissions, and active power loss.
 
 tags:
-- Multi-objective optimization
-- Optimal power flow
-- Power systems
-- Search group algorithm
-- Fuel cost
-- Emissions
-- Active power loss
+- Power System Optimization
+- Multi-objective Optimal Power Flow
+- Metaheuristic
 
 featured: false
 

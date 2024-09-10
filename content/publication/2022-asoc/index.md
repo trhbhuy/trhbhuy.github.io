@@ -30,11 +30,8 @@ abstract: |
 summary: This study introduces a Multi-Objective Search Group Algorithm (MOSGA) for solving complex multi-objective optimization problems, demonstrating its effectiveness on various benchmark and engineering design problems.
 
 tags:
-- Multi-objective optimization
-- Engineering design problems
-- Pareto optimal solution
-- Search Group Algorithm
-- Non-dominated sorting
+- Multi-Objective Optimization
+- Metaheuristic
 
 featured: false
 

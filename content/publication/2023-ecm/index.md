@@ -30,12 +30,10 @@ abstract: With rising energy costs and concerns about environmental sustainabili
 summary: This paper presents a supervised-learning-based Home Energy Management System (HEMS) that optimizes household energy costs by forecasting demand and scheduling energy storage and electric vehicle operations, significantly improving efficiency.
 
 tags:
-- Energy and Power Systems
-- Home energy management system
-- Supervised learning
-- Deep neural network
-- Energy storage system
-- Electric vehicle
+- Energy Management
+- HEMS
+- Imitation Learning
+- Supervised Learning
 featured: false
 
 # links:

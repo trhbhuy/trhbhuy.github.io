@@ -31,10 +31,11 @@ abstract: |
 summary: This paper presents an IGDT-based approach for optimizing the operation of an integrated energy hub with renewable energy, hybrid storage systems, and biomass-to-hydrogen technology.
 
 tags:
+- Energy management
 - Energy hub
 - Green hydrogen
-- Information Gap Decision Theory
-- Renewable energy sources
+# - Uncertainty
+- Multi-Objective Optimization
 
 featured: false
 

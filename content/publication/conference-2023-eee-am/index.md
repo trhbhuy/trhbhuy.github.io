@@ -34,8 +34,8 @@ summary: This study proposes a CNN-LSTM model for short-term load forecasting in
 tags:
   - Short-term load forecasting
   - CNN-LSTM
-  - Power systems
-  - Neural networks
+  - Deep Learning
+  - Power Systems
 
 # Display this page in the Featured widget?
 featured: false

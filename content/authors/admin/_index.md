@@ -43,8 +43,8 @@ interests:
   - Power & Energy Systems
   - Power System Optimization
   - AI Applications in Energy 
-  - Renewable and Sustainable Energy
-  - Energy Management Strategies
+  - Energy Management
+  - Renewable Energy Integration
 
 education:
   - area: PhD in Future Convergence Technology
@@ -54,7 +54,7 @@ education:
     summary: |
       GPA: 3.6/4.0
 
-      Thesis on _Integration of Deep Learning with Mathematical Optimization for Robust Energy Management in Smart Energy Systems_. Supervised by [Prof Daehee Kim](https://scholar.google.co.kr/citations?user=MJcazXsAAAAJ&hl=en). Published 4 papers in Elsevier journals.
+      Thesis on _Integration of Deep Learning with Mathematical Optimization for Robust Energy Management in Smart Energy Systems_. Supervised by Prof. Daehee Kim. Published 4 papers in Elsevier journals.
     button:
       # text: 'Read Thesis'
       # url: 'https://example.com'
@@ -152,18 +152,18 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-# awards:
-#   - title: Neural Networks and Deep Learning
-#     url: https://www.coursera.org/learn/neural-networks-deep-learning
-#     date: '2023-11-25'
-#     awarder: Coursera
-#     icon: coursera
-#     summary: |
-#       Learned:
-#       - Understand the foundational concepts of neural networks and deep learning
-#       - Build, train, and apply deep neural networks
-#       - Identify and fine-tune key parameters in a neural network’s architecture
-#       - Apply deep learning techniques to real-world applications
+awards:
+  - title: Neural Networks and Deep Learning
+    url: https://www.coursera.org/learn/neural-networks-deep-learning
+    date: '2023-11-25'
+    awarder: Coursera
+    icon: coursera
+    summary: |
+      Learned:
+      - Understand the foundational concepts of neural networks and deep learning
+      - Build, train, and apply deep neural networks
+      - Identify and fine-tune key parameters in a neural network’s architecture
+      - Apply deep learning techniques to real-world applications
   # - title: Blockchain Fundamentals
   #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   #   date: '2023-07-01'

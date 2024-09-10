@@ -33,11 +33,10 @@ abstract: |
 summary: This paper presents a generative adversarial imitation learning (GAIL) approach for optimizing real-time energy management of hydrogen refueling stations, demonstrating significant profit improvements.
 
 tags:
-- Hydrogen refueling station
-- Energy management
-- Fuel cell electric vehicle
-- Generative adversarial imitation learning
-# - Hydrogen storage system
+- Energy Management
+- Green Hydrogen
+- Refueling Station
+- Imitation Learning
 
 featured: true
 

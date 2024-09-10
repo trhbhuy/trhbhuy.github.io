@@ -29,11 +29,9 @@ abstract: |
 summary: This study proposes a Multi-Objective Search Group Algorithm (MOSGA) for solving the multi-objective optimal power flow problem with renewable energy sources, validating its effectiveness on IEEE 30-bus and 57-bus systems.
 
 tags:
-- Multi-objective optimization
-- Optimal power flow
-- Renewable energy sources
-- Intelligent algorithms
-- Search Group Algorithm
+- Power System Optimization
+- Multi-objective Optimal Power Flow
+- Metaheuristic
 featured: false
 
 # links:
