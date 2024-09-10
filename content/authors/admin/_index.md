@@ -33,7 +33,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/trhbhuy
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/trhbhuy
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=YfJyCrAAAAAJ&hl=en
   - icon: academicons/researchgate
@@ -61,7 +61,7 @@ education:
 
   - area: MSc in Electrical & Electronics Engineering
     institution: Universiti Teknologi Petronas
-    date_start: 2018-08-01
+    date_start: 2018-07-31
     date_end: 2020-10-02
     summary: |
       GPA: Excellent Viva-voce Results
@@ -93,7 +93,7 @@ education:
 #       Responsibilities include:
 #       - Conducted fundamental research in power system optimization
 #       - Participated in research projects
-#       - Guided undergraduate students in the completion of their thesis projects
+#       - Supervised undergraduate students on their final year projects
 #   - position: Electrical Design Engineer
 #     company_name: Gouvis Engineering, Vietnam Office
 #     company_url: https://gouvisgroup.com
