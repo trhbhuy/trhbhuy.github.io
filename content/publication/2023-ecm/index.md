@@ -40,7 +40,7 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: ''
-url_code: 'https://github.com/trhbhuy/supervised-learning-HEMS'
+url_code: https://github.com/trhbhuy/supervised-learning-home-energy-management
 url_dataset: ''
 url_poster: ''
 url_project: ''
