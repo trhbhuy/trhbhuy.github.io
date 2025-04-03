@@ -17,12 +17,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Soonchunhyang University
-    url: https://sgee.sch.ac.kr/
+  - name: Eindhoven University of Technology
+    url: https://www.tue.nl/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -50,11 +50,11 @@ education:
   - area: PhD in Future Convergence Technology
     institution: Soonchunhyang University
     date_start: 2022-03-01
-    date_end: 2025-02-28
+    date_end: 2025-02-20
     summary: |
       GPA: 3.6/4.0
 
-      Thesis on _Integration of Deep Learning with Mathematical Optimization for Robust Energy Management in Smart Energy Systems_. Supervised by Prof. Daehee Kim. Published 4 papers in Elsevier journals.
+      Thesis on _Integration of AI-based and Optimization Strategies for Robust Energy Management in Smart Energy Systems_. Supervised by Prof. Daehee Kim. Published 5 papers in Elsevier journals.
     button:
       # text: 'Read Thesis'
       # url: 'https://example.com'
@@ -186,4 +186,4 @@ awards:
 
 ## About Me
 
-I am currently a PhD Candidate in the Department of [Future Convergence Technology](https://sites.google.com/view/iot-network-lab-sch/home?authuser=0) at [Soonchunhyang University](https://sgee.sch.ac.kr/). My research focuses on addressing challenges in modern power and energy systems, particularly in energy-related modeling, forecasting, and optimization. I have a strong emphasis on integrating renewable energy sources (e.g., wind, solar, and hydrogen) and flexible resources (e.g., energy storage systems and electric vehicles) to reduce operating costs and facilitate the transition to a low-carbon future.
+I am currently a postdoc in the Department of [Electrical Engineering](https://www.tue.nl/en/research/research-groups/electrical-energy-systems) at [Eindhoven University of Technology](https://www.tue.nl/). My research focuses on addressing challenges in modern power and energy systems, particularly in energy-related modeling, forecasting, and optimization. I have a strong emphasis on integrating renewable energy sources (e.g., wind, solar, and hydrogen) and flexible resources (e.g., energy storage systems and electric vehicles) to reduce operating costs and facilitate the transition to a low-carbon future.
